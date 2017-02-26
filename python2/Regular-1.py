@@ -1,4 +1,7 @@
-# encoding = utf-8
+# encoding:utf-8
+'''
+regular web page in url
+'''
 import urllib2
 import re
 
